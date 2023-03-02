@@ -81,9 +81,7 @@ const Footer = () => {
     return (
         <Container>
             <Left>
-                <Logo>Đồ án chuyên ngành</Logo>
-                <Desc>Tỉa Hứa Hoàng Vũ</Desc>
-                <Desc>Trương Vĩnh Thành</Desc>
+                
                 <SocialContainer>
                     <a href="https://www.facebook.com/Chivas2707">
                         <SocialIcon color="3B5999">
